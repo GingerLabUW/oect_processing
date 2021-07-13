@@ -1,5 +1,7 @@
 # Organic Electrochemical Transistor (OECT) device processing
 
+**The most updated version is at Raj's personal site here: [oect_processing](https://github.com/rajgiriUW/OECT_processing)**
+
 ```
 Contact info: 
 
