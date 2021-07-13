@@ -1,5 +1,7 @@
 # Organic Electrochemical Transistor (OECT) device processing
 
+**Note: the most updated version is at my (Raj) personal site: [oect_processing](https://github.com/rajgiriUW/OECT_processing)**
+
 This package processes sets of OECT device measurements in Python via Pandas, with primary users being the Ginger Lab at University of Washington.
 It includes some simplified extraction and processing of recorded data.  
 There is also simplified scripts for extracting and processing spectroelectrochemistry data.  
